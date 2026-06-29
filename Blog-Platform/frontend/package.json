@@ -1,0 +1,13 @@
+{
+"name":"blog-frontend",
+"version":"1.0.0",
+"scripts":{
+"dev":"vite"
+},
+"dependencies":{
+"axios":"latest",
+"react":"latest",
+"react-dom":"latest",
+"react-router-dom":"latest"
+}
+}
